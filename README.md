@@ -41,13 +41,4 @@ A simple CRUD (Create, Read, Update, Delete) application using Node.js, Express,
    nodemon server/index.js
 
 
-## You can view the deployed app below:
 
-### Live Demo
-[Click here to view the deployed React app](https://lornagathoni1.github.io/DataScienceHub/)
-
-
-
-```python
-
-```
