@@ -47,6 +47,8 @@ Screenshot 1: App Home Screen
 Screenshot 2: App in Action
 ![Screenshot 2024-12-05 131356](https://github.com/user-attachments/assets/277956e2-5fed-45ad-a785-bec6d958a890)
 ![Screenshot 2024-12-05 131527](https://github.com/user-attachments/assets/25192612-b300-4186-aa02-fdac39d208a7)
+![Screenshot 2024-12-05 131824](https://github.com/user-attachments/assets/d931fc4a-2c06-42e2-8103-25ea4555dc06)
+
 
 
 
