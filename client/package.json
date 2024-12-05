@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lornagathoni1.github.io/personal-details-crud-application",
+  "homepage": "https://lornagathoni1.github.io/crud-app-with-mongodb",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
